@@ -135,6 +135,9 @@ This project is created as a Low-Level Design (LLD) assignment to demonstrate:
 
 ---
 
+## Submission Branch
+This branch is created for assignment submission via Pull Request.git branch
+
 ## 👨‍💻 Author
 
 Kundan Kumar
